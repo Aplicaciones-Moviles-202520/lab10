@@ -41,7 +41,7 @@ El procedimiento es el siguiente:
 
 Este laboratorio cuenta con un template de CloudFormation (`infrastructure.yaml`) que crea toda la infraestructura necesaria para servir la PWA y su backend serverless. El template debe ser desplegado en la región sa-east-1 (São Paulo). El template crea la infraestructura que se puede apreciar en la siguiente imagen:
 
-[Infraestructura del laboratorio](./figures/architecture.png)
+![Infraestructura del laboratorio](./figures/architecture.png)
 
 Para desplegar el template se debe seguir el siguiente procedimiento en la consola web de AWS:
 
