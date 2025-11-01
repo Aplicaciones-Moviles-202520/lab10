@@ -18,6 +18,7 @@ export const metadata = {
             url: '/icons/apple-touch-icon.png',
         },
     },
+};
 
 // Load Orbitron font and set CSS variable
 const orbitron = Orbitron({
